@@ -8,7 +8,7 @@ const Footer = () => {
         <footer className="footer-content">
             Made with
             <Heart className="footer-icon"></Heart>
-            by Ashhad
+            by Arham
         </footer>
     );
 }
